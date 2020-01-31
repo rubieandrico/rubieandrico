@@ -3,8 +3,8 @@ title:              Rubie & Rico
 bio:                'Travelling duo, singer & guitarist, available for gigs and private functions.'
 description:        "Specialising in Blues, Jazz, Soul & All time classics."
 locale:             en_US
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+baseurl: "../" # the subpath of your site, e.g. /blog
+url: "https://rubieandrico.github.io/rubieandrico/" # the base hostname & protocol for your site
 
 # Comments
 disqus_shortname:   default
